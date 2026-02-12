@@ -1,1 +1,1 @@
-# fullstack-decal-git-demo
+# Git Fullstack Decal Demo
